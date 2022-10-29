@@ -1,6 +1,6 @@
-#wahome's Gihub
+# wahome's Gihub
 
-##Ready to collaborate in any project hit me up
+## Ready to collaborate in any project hit me up
 
 
 - 👋 Hi, I’m @Wahomethegeek

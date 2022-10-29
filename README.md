@@ -1,3 +1,8 @@
+#wahome's Gihub
+
+##Ready to collaborate in any project hit me up
+
+
 - 👋 Hi, I’m @Wahomethegeek
 - 👀 I’m interested in javascript , react and vue( still learnin)😊
 - 🌱 I’m currently learning Java and SQL
@@ -6,7 +11,4 @@
 - email: gatwirikelvin@outlook.com
 
 
-<!---
-Wahomethegeek/Wahomethegeek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+

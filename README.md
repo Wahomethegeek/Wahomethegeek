@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **front-end and androind projects**
+- 👯 I’m looking to collaborate on **front-end and android projects**
 
 - 💬 Ask me about **android , React**
 

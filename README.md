@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **gatwirikelvin@outlook.com**
 
-- ⚡ Fun fact **I am a JavaScript lover😍**
+- ⚡ Fun fact **I love Nature🌳**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

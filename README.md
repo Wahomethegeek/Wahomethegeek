@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and android projects**
 
-- 💬 Ask me about **Kotlin, React**
+- 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **gatwirikelvin@outlook.com**
 

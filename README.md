@@ -3,10 +3,6 @@
 
 <p align="left"> <a href="https://twitter.com/_wahomekelvin" target="blank"><img src="https://img.shields.io/twitter/follow/_wahomekelvin?logo=twitter&style=for-the-badge" alt="_wahomekelvin" /></a> </p>
 
-- I’m looking to collaborate on **front-end and android projects**
-
--  Ask me about **Kotlin**, **Python**
-
 - How to reach me **gatwirikelvin@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
